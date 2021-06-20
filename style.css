@@ -1,0 +1,20 @@
+#body_backgorund {
+
+    background-image: url("images.jpg");
+    background-position: center;
+    background-size: cover;
+    
+}
+
+#body_backgorund2
+{
+    background :aquamarine;
+}
+
+#picture_backgorund
+{
+    background-image: url("dad.jpg"); 
+
+    width: 100%;
+    height: 100%;
+}
